@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">IDSS</string>
+    <string name="app_name">Smart Krishi</string>
     <string name="notification_error_ssl_cert_invalid">SSL error occured. Would you like to proceed?</string>
 </resources>
