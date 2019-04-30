@@ -1,4 +1,4 @@
-package com.example.appname;
+package com.example.appname.Activities;
 
 import android.annotation.SuppressLint;
 import android.content.DialogInterface;
@@ -6,14 +6,14 @@ import android.net.http.SslError;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.View;
 import android.webkit.SslErrorHandler;
 import android.webkit.WebChromeClient;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.ProgressBar;
-import android.widget.Toolbar;
+
+import com.example.appname.R;
 
 public class MainActivity extends AppCompatActivity {
 
