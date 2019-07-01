@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
         webView = findViewById(R.id.webView);
         progressBar = findViewById(R.id.progress_horizontal);
 
-        String url = "http://35.161.207.103/idss/";
+        String url = "http://34.208.173.12";
         /*webView.getSettings().setJavaScriptEnabled(true);
         webView.loadUrl(url);*/
         showTheWebsite(url);
